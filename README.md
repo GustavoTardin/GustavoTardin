@@ -13,7 +13,7 @@
 
 - Idiomas que domino: Português 🇧🇷, Inglês🇺🇸.
 
-- Sobre mim **Tenho 19 anos, sou do inteiror do Rio de janeiro. Já estou formado em front - end e em breve me tornarei um desenolvedor Full Stack.**
+- Sobre mim **Tenho 19 anos, sou do inteiror do Rio de janeiro. Já estou formado em front - end e em breve me tornarei um desenvolvedor Full Stack.**
 -  **Sou apaixonado por aprender coisas novas e desafiar o limite do meu potencial, estou sempre em busca de novas aventuras**
 
 - ⚡ Fatos sobre mim **Apaixonado em Futebol, Inglês, Natureza e tecnologia**
