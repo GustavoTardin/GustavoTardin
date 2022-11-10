@@ -1,17 +1,20 @@
-<h1 align="center">Olá, sou Gustavo! Gustavo Filipe Tardin de Paula</h1>
+<h1 align="center">Gustavo Filipe Tardin de Paula</h1>
 <h3 align="center">Um estudante Full Stack apaixonado</h3>
 
 - 🌱 I’m currently learning **Back End**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GustavoTardin](https://github.com/GustavoTardin)
 
-- 💬 Ask me about **React, Js,Futebol**
+- 💬 Ask me about **React, Js, Redux**
 
 - 📫 How to reach me **gustavofilipetardin@outlook.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/gustavo-tardin-de-paula/](https://www.linkedin.com/in/gustavo-tardin-de-paula/)
 
-- ⚡ Fun fact **Apaixonado em Futebol, Inglês e tecnologia**
+- About me **Tenho 19 anos, Já estou formado em front - end e em breve me tornarei um desenolvedor Full Stack.
+-  **Sou apaixonado por aprender coisas novas e desafiar o limite do meu potencial, estou sempre em busca de novas aventuras**
+
+- ⚡ Fun fact **Apaixonado em Futebol, Inglês, Natureza e tecnologia**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
