@@ -1,22 +1,22 @@
 <h1 align="center">Gustavo Filipe Tardin de Paula</h1>
 <h3 align="center">Um estudante Full Stack apaixonado</h3>
 
-- 🌱 Atualmente estou estudando **Back End**
+- 🌱 Desenvolvedor **Back End**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/GustavoTardin](https://github.com/GustavoTardin)
 
-- 💬 Me pergunte sobre **React, Js, Redux**
+- 💬 Me pergunte sobre **Javascript, Typescript, NodeJs, Express, SQL, NoSQL, ORMs(Sequelize), ODMs(Mongoose), POO, SOLID, testes de integração e de unidade, Docker,arquitetura de software MSC e DDD**
 
-- 📫 Como falar comigo **gustavofilipetardin@outlook.com**
+- 📫 Como falar comigo **gustavofilipetardin@outlook.com** ou pelo meu telefone **22 997028600**(de preferência WhatsApp).
 
-- 📄 Minhas experiências [https://www.linkedin.com/in/gustavo-tardin-de-paula/](https://www.linkedin.com/in/gustavo-tardin-de-paula/)
+- 📄 Minhas experiências **[https://www.linkedin.com/in/gustavo-tardin-de-paula/]**
 
 - Idiomas que domino: Português 🇧🇷, Inglês🇺🇸.
 
-- Sobre mim **Tenho 19 anos, sou do inteiror do Rio de janeiro. Já estou formado em front - end e em breve me tornarei um desenvolvedor Full Stack.**
--  **Sou apaixonado por aprender coisas novas e desafiar o limite do meu potencial, estou sempre em busca de novas aventuras**
+- Sobre mim **Tenho 19 anos, sou do inteiror do Rio de janeiro. Já sou formado em front - end, e estou no projeto final da minha formação de Back - End**
+-  **Sou apaixonado por aprender coisas novas e desafiar o limite do meu potencial, quando comecei a jornada de back - end me apaixonei imediatamente, foi quando me encontrei verdadeiramente na tecnologia.**
 
-- ⚡ Fatos sobre mim **Apaixonado em Futebol, Inglês, Natureza e tecnologia**
+- ⚡ Fatos sobre mim **Apaixonado em Futebol, Inglês, Natureza e tecnologia. Tenho 4 anos de experiência com vendas, e 1 ano operando no mercado financeiro.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
