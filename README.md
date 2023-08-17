@@ -1,11 +1,11 @@
 <h1 align="center">Gustavo Filipe Tardin de Paula</h1>
 <h3 align="center">Um estudante Full Stack apaixonado</h3>
 
-- 🌱 Desenvolvedor **Back End**
+- 🌱 Desenvolvedor **Full Stack**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/GustavoTardin](https://github.com/GustavoTardin)
 
-- 💬 Me pergunte sobre **Javascript, Typescript, NodeJs, Express, SQL, NoSQL, ORMs(Sequelize), ODMs(Mongoose), POO, SOLID, testes de integração e de unidade, Docker,arquitetura de software MSC e DDD**
+- 💬 Me pergunte sobre **Javascript, Typescript, Python, React, Context, Redux, NodeJs, Express, SQL, NoSQL, ORMs(Sequelize), ODMs(Mongoose), POO, SOLID, testes de integração e de unidade, Docker,arquitetura de software MSC e DDD. Metodologias ágeis Kanbam e Scrum**
 
 - 📫 Como falar comigo **gustavofilipetardin@outlook.com** ou pelo meu telefone **22 997028600**(de preferência WhatsApp).
 
@@ -13,8 +13,8 @@
 
 - Idiomas que domino: Português 🇧🇷, Inglês🇺🇸.
 
-- Sobre mim **Tenho 19 anos, sou do inteiror do Rio de janeiro. Já sou formado em front - end, e estou no projeto final da minha formação de Back - End**
--  **Sou apaixonado por aprender coisas novas e desafiar o limite do meu potencial, quando comecei a jornada de back - end me apaixonei imediatamente, foi quando me encontrei verdadeiramente na tecnologia.**
+- Sobre mim **Tenho 19 anos, sou do inteiror do Rio de janeiro. Sou formado em desenvolvimentoWeb Full stack pela Trybe, onde desenvolvi mais de 40 aplicações utilizando as ferramentas citadas acima.**
+-  **Sou apaixonado por aprender coisas novas e desafiar o limite do meu potencial, desde pequeno sou autodidata. Fui o primero da class a aprender a ler, aprendi inglês sozinho em casa nos meus 14/15 anos, não tinha background em programação e mesmo assim conclui o curso intenso da Trybe sem muitas dificulades, sempre no prazo e prezando muito pela qualidade do Software desenvolvido**
 
 - ⚡ Fatos sobre mim **Apaixonado em Futebol, Inglês, Natureza e tecnologia. Tenho 4 anos de experiência com vendas, e 1 ano operando no mercado financeiro.**
 
