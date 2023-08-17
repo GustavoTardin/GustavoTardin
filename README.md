@@ -14,7 +14,7 @@
 - Idiomas que domino: Português 🇧🇷, Inglês🇺🇸.
 
 - Sobre mim **Tenho 19 anos, sou do inteiror do Rio de janeiro. Sou formado em desenvolvimento Web Full stack pela Trybe, onde desenvolvi mais de 40 aplicações utilizando as ferramentas citadas acima.**
--  **Sou apaixonado por aprender coisas novas e desafiar o limite do meu potencial, desde pequeno sou autodidata. Fui o primero da classe a aprender a ler, aprendi inglês sozinho em casa nos meus 14/15 anos, não tinha background em programação e mesmo assim conclui o curso intenso da Trybe sem muitas dificulades, sempre no prazo e prezando muito pela qualidade do Software desenvolvido**
+-  **Sou apaixonado por aprender coisas novas e desafiar o limite do meu potencial, desde pequeno sou autodidata. Fui o primero da classe a aprender a ler, aprendi inglês sozinho em casa nos meus 14/15 anos, não tinha background em programação e mesmo assim conclui o curso intenso da Trybe sem muitas dificuldades, sempre no prazo e prezando muito pela qualidade do Software desenvolvido**
 
 - ⚡ Fatos sobre mim **Apaixonado em Futebol, Inglês, Natureza e tecnologia. Tenho 4 anos de experiência com vendas, e 1 ano operando no mercado financeiro.**
 
