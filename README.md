@@ -1,5 +1,4 @@
 <h1 align="center">Gustavo Filipe Tardin de Paula</h1>
-<h3 align="center">Um estudante Full Stack apaixonado</h3>
 
 - 🌱 Desenvolvedor **Full Stack**
 
